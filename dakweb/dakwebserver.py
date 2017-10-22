@@ -45,6 +45,7 @@ from queries.archive import *
 from queries.madison import *
 from queries.source import *
 from queries.suite import *
+from queries.golang import *
 
 # Set up our initial database connection
 d = DBConn()
